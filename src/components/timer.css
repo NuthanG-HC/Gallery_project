@@ -1,0 +1,23 @@
+#num{
+    display: flex;
+    margin: auto;
+    margin-top: 200px;
+    padding: 10px;
+    background-color: aqua;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+}
+#res{
+   display: flex;
+   justify-content: center;
+   margin-top: 50px;
+   font-size: 30px;
+   font-style: italic;
+   font-weight: bold;
+}
+span{
+    font-size: 30px;
+    color: maroon;
+    
+}

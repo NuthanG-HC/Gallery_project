@@ -1,0 +1,45 @@
+.btn{
+    margin: 10px;
+    background-color: darkslategrey;
+    color: aliceblue;
+    font-size: 18px;
+    padding: 5px;
+    width: 100px;
+}
+img{
+
+   padding: 5px;  
+   width: 250px;
+   height: 250px;
+}
+img:hover{
+    transform: scale(1.2);
+}
+input{
+    background-color: aliceblue;
+    padding: 5px;
+    width: 250px;
+   
+}
+#imgArea{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+#inputArea{
+    display: flex;
+    justify-content: center;
+}
+#key{
+    background-color: darkslategrey;
+    color: white;
+    font-size: 20px;
+}
+#btnArea{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
